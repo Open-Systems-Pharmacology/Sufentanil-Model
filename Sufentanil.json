@@ -44328,6 +44328,69 @@
             }
           },
           "OriginText": "Sufentanil\nBovill 1984\n2019-06-14 13:32"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Bovill 1984-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Bovill 1984|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "255, 0, 0",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1 1-Sufentanil-Peripheral Venous Blood-Plasma-Figure 1 Sufentanil IV 5µg/kg (Concentration) ",
+              "X": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|Time ",
+              "Y": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 Sufentanil IV 5µg/kg (Concentration) ",
+              "CurveOptions": {
+                "Color": "0, 128, 0",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "ChartWidth": 600,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "OriginText": "Sufentanil\nBovill 1984\n2019-06-14 13:32"
         }
       ]
     },
@@ -44743,6 +44806,69 @@
             }
           ],
           "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "OriginText": "Sufentanil\nGuay 1991 patient 10\n2019-06-14 13:34"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Guay 1991 patient 10-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Guay 1991 patient 10|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "255, 0, 0",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Guay_1991_Figure_c.ID10 3.08ugkg 1-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Guay_1991_Figure_c.ID10 3.08ugkg|Time",
+              "Y": "Guay_1991_Figure_c.ID10 3.08ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
+              "CurveOptions": {
+                "Color": "0, 128, 0",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
           "FontAndSize": {
             "ChartWidth": 400,
             "ChartHeight": 400,
@@ -46284,6 +46410,69 @@
             }
           },
           "OriginText": "Sufentanil\nGuay 1991 patient 3\n2019-06-14 13:36"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Guay 1991 patient 3-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Guay 1991 patient 3|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "255, 0, 0",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Guay_1991_Figure_c.ID3 3.54ugkg 1-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Guay_1991_Figure_c.ID3 3.54ugkg|Time",
+              "Y": "Guay_1991_Figure_c.ID3 3.54ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
+              "CurveOptions": {
+                "Color": "0, 128, 0",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "OriginText": "Sufentanil\nGuay 1991 patient 3\n2019-06-14 13:36"
         }
       ]
     },
@@ -47061,6 +47250,69 @@
             }
           },
           "OriginText": "Sufentanil\nGuay 1991 patient 8\n2019-06-14 13:37"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Guay 1991 patient 8-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Guay 1991 patient 8|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "255, 0, 0",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Guay_1991_Figure_c. ID8 3.14 ugkg 1-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Guay_1991_Figure_c. ID8 3.14 ugkg|Time",
+              "Y": "Guay_1991_Figure_c. ID8 3.14 ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
+              "CurveOptions": {
+                "Color": "0, 128, 0",
+                "LegendIndex": 3,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "ChartWidth": 400,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "OriginText": "Sufentanil\nGuay 1991 patient 8\n2019-06-14 13:37"
         }
       ]
     },
@@ -47629,6 +47881,69 @@
             }
           },
           "OriginText": "Sufentanil\nTaverne 1992 (for reporting)\n2019-06-19 17:17"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Taverne 1992 (for reporting)-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Taverne 1992 (for reporting)|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "255, 0, 0",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Taverne 1992 Figure 1 mean-Sufentanil-Peripheral Venous Blood-Plasma-Figure 1 mean sufentanil IV (Concentration) ",
+              "X": "Taverne 1992 Figure 1 mean|Time ",
+              "Y": "Taverne 1992 Figure 1 mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 mean sufentanil IV (Concentration) ",
+              "CurveOptions": {
+                "Color": "0, 0, 255",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "FontAndSize": {
+            "ChartWidth": 600,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "OriginText": "Sufentanil\nTaverne 1992 (for reporting)\n2019-06-19 17:17"
         }
       ]
     },
@@ -47767,6 +48082,69 @@
             }
           ],
           "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "ChartWidth": 600,
+            "ChartHeight": 400,
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "OriginText": "Sufentanil\nWillsie 2014 adults IV (for reporting)\n2019-06-19 17:23"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "White",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Willsie 2014 adults IV (for reporting)-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Willsie 2014 adults IV (for reporting)|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "255, 0, 0",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Willsie 2014 Figure 1 IV mean-Sufentanil-Peripheral Venous Blood-Plasma-15 µg IV bolus (Concentration) ",
+              "X": "Willsie 2014 Figure 1 IV mean|Time ",
+              "Y": "Willsie 2014 Figure 1 IV mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|15 µg IV bolus (Concentration) ",
+              "CurveOptions": {
+                "Color": "0, 0, 255",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
           "FontAndSize": {
             "ChartWidth": 600,
             "ChartHeight": 400,
@@ -48512,23 +48890,23 @@
             "MolWeight": 386.6
           },
           "Values": [
-            0.03608743,
-            0.008007425,
-            0.004910575,
-            0.003613063,
-            0.002173929,
-            0.001525026,
-            0.001271378,
-            0.0006630678,
-            0.0004437596,
-            0.0003495893,
-            0.0002727615,
-            0.0001989966,
-            0.0001597985,
-            0.000138552408
+            36.0874329,
+            8.007425,
+            4.910575,
+            3.61306286,
+            2.173929,
+            1.525026,
+            1.271378,
+            0.6630678,
+            0.44375962,
+            0.3495893,
+            0.2727615,
+            0.1989966,
+            0.159798488,
+            0.138552412
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
