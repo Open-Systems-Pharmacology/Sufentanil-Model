@@ -1,5 +1,5 @@
 {
-  "Version": 75,
+  "Version": 76,
   "Individuals": [
     {
       "Name": "Standard European Male for PEQ",
@@ -43708,7 +43708,7 @@
         }
       ],
       "CalculationMethods": [
-        "Cellular partition coefficient method - PK-Sim Standard",
+        "Cellular partition coefficient method - Schmitt",
         "Cellular permeability - PK-Sim Standard"
       ],
       "Parameters": [
@@ -44274,7 +44274,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -44285,7 +44285,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -44297,7 +44297,7 @@
               "X": "Time",
               "Y": "Bovill 1984|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -44306,7 +44306,7 @@
               "X": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|Time ",
               "Y": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 Sufentanil IV 5µg/kg (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -44337,7 +44337,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -44348,7 +44348,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -44360,7 +44360,7 @@
               "X": "Time",
               "Y": "Bovill 1984|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -44369,7 +44369,7 @@
               "X": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|Time ",
               "Y": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 Sufentanil IV 5µg/kg (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -44489,7 +44489,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -44500,7 +44500,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -44512,7 +44512,7 @@
               "X": "Time",
               "Y": "Willsie 2014 adults IV|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -44521,7 +44521,7 @@
               "X": "Willsie 2014 Figure 1 IV mean|Time ",
               "Y": "Willsie 2014 Figure 1 IV mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|15 µg IV bolus (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -44638,7 +44638,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -44649,7 +44649,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -44661,7 +44661,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 1|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -44766,7 +44766,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -44777,7 +44777,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -44789,7 +44789,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 10|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -44798,7 +44798,7 @@
               "X": "Guay_1991_Figure_c.ID10 3.08ugkg|Time",
               "Y": "Guay_1991_Figure_c.ID10 3.08ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -44829,7 +44829,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -44840,7 +44840,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -44852,7 +44852,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 10|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -44861,7 +44861,7 @@
               "X": "Guay_1991_Figure_c.ID10 3.08ugkg|Time",
               "Y": "Guay_1991_Figure_c.ID10 3.08ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -44978,7 +44978,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -44989,7 +44989,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -45001,7 +45001,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 11|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -45103,7 +45103,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -45114,7 +45114,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -45126,7 +45126,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 12|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -45228,7 +45228,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -45239,7 +45239,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -45251,7 +45251,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 13|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -45353,7 +45353,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -45364,7 +45364,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -45376,7 +45376,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 14|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -45478,7 +45478,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -45489,7 +45489,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -45501,7 +45501,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 15|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -45603,7 +45603,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -45614,7 +45614,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -45626,7 +45626,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 16|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -45728,7 +45728,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -45739,7 +45739,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -45751,7 +45751,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 17|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -45853,7 +45853,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -45864,7 +45864,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -45876,7 +45876,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 18|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -45978,7 +45978,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -45989,7 +45989,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -46001,7 +46001,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 19|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -46103,7 +46103,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -46114,7 +46114,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -46126,7 +46126,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 2|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -46228,7 +46228,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -46239,7 +46239,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -46251,7 +46251,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 20|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -46356,7 +46356,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -46367,7 +46367,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -46379,7 +46379,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 3|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -46388,7 +46388,7 @@
               "X": "Guay_1991_Figure_c.ID3 3.54ugkg|Time",
               "Y": "Guay_1991_Figure_c.ID3 3.54ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -46419,7 +46419,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -46430,7 +46430,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -46442,7 +46442,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 3|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -46451,7 +46451,7 @@
               "X": "Guay_1991_Figure_c.ID3 3.54ugkg|Time",
               "Y": "Guay_1991_Figure_c.ID3 3.54ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -46568,7 +46568,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -46579,7 +46579,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -46591,7 +46591,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 4|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -46693,7 +46693,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -46704,7 +46704,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -46716,7 +46716,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 5|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -46818,7 +46818,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -46829,7 +46829,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -46841,7 +46841,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 6|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -46943,7 +46943,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -46954,7 +46954,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -46966,7 +46966,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 7|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -47068,7 +47068,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47079,7 +47079,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -47091,7 +47091,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 9|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -47196,7 +47196,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47207,7 +47207,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -47219,7 +47219,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 8|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -47228,7 +47228,7 @@
               "X": "Guay_1991_Figure_c. ID8 3.14 ugkg|Time",
               "Y": "Guay_1991_Figure_c. ID8 3.14 ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -47259,7 +47259,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47270,7 +47270,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47282,7 +47282,7 @@
               "X": "Time",
               "Y": "Guay 1991 patient 8|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -47291,7 +47291,7 @@
               "X": "Guay_1991_Figure_c. ID8 3.14 ugkg|Time",
               "Y": "Guay_1991_Figure_c. ID8 3.14 ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
               "CurveOptions": {
-                "Color": "0, 128, 0",
+                "Color": "#008000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -47415,7 +47415,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47426,7 +47426,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -47438,7 +47438,7 @@
               "X": "Time",
               "Y": "Davis 1987 15.5months|Organism|ArterialBlood|Plasma|Sufentanil|Concentration in container",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -47547,7 +47547,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47558,7 +47558,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -47570,7 +47570,7 @@
               "X": "Time",
               "Y": "Davis 1987 5.2months|Organism|ArterialBlood|Plasma|Sufentanil|Concentration in container",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             }
@@ -47675,7 +47675,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47686,7 +47686,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -47698,7 +47698,7 @@
               "X": "Time",
               "Y": "Taverne 1992|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -47707,7 +47707,7 @@
               "X": "Taverne 1992 Figure 1 mean|Time ",
               "Y": "Taverne 1992 Figure 1 mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 mean sufentanil IV (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -47827,7 +47827,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47838,7 +47838,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -47850,7 +47850,7 @@
               "X": "Time",
               "Y": "Taverne 1992 (for reporting)|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -47859,7 +47859,7 @@
               "X": "Taverne 1992 Figure 1 mean|Time ",
               "Y": "Taverne 1992 Figure 1 mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 mean sufentanil IV (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -47890,7 +47890,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47901,7 +47901,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -47913,7 +47913,7 @@
               "X": "Time",
               "Y": "Taverne 1992 (for reporting)|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -47922,7 +47922,7 @@
               "X": "Taverne 1992 Figure 1 mean|Time ",
               "Y": "Taverne 1992 Figure 1 mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 mean sufentanil IV (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -48042,7 +48042,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -48053,7 +48053,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
               "NumberMode": "Normal"
@@ -48065,7 +48065,7 @@
               "X": "Time",
               "Y": "Willsie 2014 adults IV (for reporting)|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -48074,7 +48074,7 @@
               "X": "Willsie 2014 Figure 1 IV mean|Time ",
               "Y": "Willsie 2014 Figure 1 IV mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|15 µg IV bolus (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -48105,7 +48105,7 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -48116,7 +48116,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "DefaultColor": "White",
+              "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Linear",
               "NumberMode": "Normal"
@@ -48128,7 +48128,7 @@
               "X": "Time",
               "Y": "Willsie 2014 adults IV (for reporting)|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "255, 0, 0",
+                "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
@@ -48137,7 +48137,7 @@
               "X": "Willsie 2014 Figure 1 IV mean|Time ",
               "Y": "Willsie 2014 Figure 1 IV mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|15 µg IV bolus (Concentration) ",
               "CurveOptions": {
-                "Color": "0, 0, 255",
+                "Color": "#0000FF",
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -48310,7 +48310,7 @@
                 "Type": "X",
                 "GridLines": false,
                 "Visible": true,
-                "DefaultColor": "White",
+                "DefaultColor": "#FFFFFF",
                 "DefaultLineStyle": "None",
                 "Scaling": "Linear",
                 "NumberMode": "Normal"
@@ -48321,7 +48321,7 @@
                 "Type": "Y",
                 "GridLines": false,
                 "Visible": true,
-                "DefaultColor": "White",
+                "DefaultColor": "#FFFFFF",
                 "DefaultLineStyle": "Solid",
                 "Scaling": "Log",
                 "NumberMode": "Normal"
@@ -48334,7 +48334,7 @@
                 "Y": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 Sufentanil IV 5µg/kg (Concentration) ",
                 "CurveOptions": {
                   "VisibleInLegend": false,
-                  "Color": "255, 0, 0",
+                  "Color": "#FF0000",
                   "LegendIndex": 1,
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -48346,7 +48346,7 @@
                 "Y": "Taverne 1992 Figure 1 mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 mean sufentanil IV (Concentration) ",
                 "CurveOptions": {
                   "VisibleInLegend": false,
-                  "Color": "0, 0, 255",
+                  "Color": "#0000FF",
                   "LegendIndex": 2,
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -48358,7 +48358,7 @@
                 "Y": "Willsie 2014 Figure 1 IV mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|15 µg IV bolus (Concentration) ",
                 "CurveOptions": {
                   "VisibleInLegend": false,
-                  "Color": "0, 128, 0",
+                  "Color": "#008000",
                   "LegendIndex": 3,
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -48369,7 +48369,7 @@
                 "X": "Time",
                 "Y": "Bovill 1984|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
                 "CurveOptions": {
-                  "Color": "255, 0, 0",
+                  "Color": "#FF0000",
                   "LegendIndex": 4
                 }
               },
@@ -48378,7 +48378,7 @@
                 "X": "Time",
                 "Y": "Taverne 1992|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
                 "CurveOptions": {
-                  "Color": "0, 0, 255",
+                  "Color": "#0000FF",
                   "LegendIndex": 5
                 }
               },
@@ -48387,7 +48387,7 @@
                 "X": "Time",
                 "Y": "Willsie 2014 adults IV|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
                 "CurveOptions": {
-                  "Color": "0, 128, 0",
+                  "Color": "#008000",
                   "LegendIndex": 6
                 }
               }
@@ -48410,7 +48410,7 @@
                 "Type": "X",
                 "GridLines": false,
                 "Visible": true,
-                "DefaultColor": "White",
+                "DefaultColor": "#FFFFFF",
                 "DefaultLineStyle": "None",
                 "Scaling": "Log",
                 "NumberMode": "Normal"
@@ -48421,7 +48421,7 @@
                 "Type": "Y",
                 "GridLines": false,
                 "Visible": true,
-                "DefaultColor": "White",
+                "DefaultColor": "#FFFFFF",
                 "DefaultLineStyle": "Solid",
                 "Scaling": "Log",
                 "NumberMode": "Normal"
@@ -48433,7 +48433,7 @@
                 "X": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 Sufentanil IV 5µg/kg (Concentration) ",
                 "Y": "Bovill 1984|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
                 "CurveOptions": {
-                  "Color": "255, 0, 0",
+                  "Color": "#FF0000",
                   "LegendIndex": 1,
                   "LineStyle": "None",
                   "Symbol": "Diamond"
@@ -48444,7 +48444,7 @@
                 "X": "Taverne 1992 Figure 1 mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 mean sufentanil IV (Concentration) ",
                 "Y": "Taverne 1992|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
                 "CurveOptions": {
-                  "Color": "0, 0, 255",
+                  "Color": "#0000FF",
                   "LegendIndex": 2,
                   "LineStyle": "None",
                   "Symbol": "Diamond"
@@ -48455,7 +48455,7 @@
                 "X": "Willsie 2014 Figure 1 IV mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|15 µg IV bolus (Concentration) ",
                 "Y": "Willsie 2014 adults IV|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
                 "CurveOptions": {
-                  "Color": "0, 128, 0",
+                  "Color": "#008000",
                   "LegendIndex": 3,
                   "LineStyle": "None",
                   "Symbol": "Diamond"
@@ -48466,8 +48466,8 @@
             "Settings": {
               "SideMarginsEnabled": true,
               "LegendPosition": "BottomInside",
-              "BackColor": "Transparent",
-              "DiagramBackColor": "White"
+              "BackColor": "#FFFFFF",
+              "DiagramBackColor": "#FFFFFF"
             }
           }
         },
@@ -48482,7 +48482,7 @@
                 "Type": "X",
                 "GridLines": false,
                 "Visible": true,
-                "DefaultColor": "White",
+                "DefaultColor": "#FFFFFF",
                 "DefaultLineStyle": "None",
                 "Scaling": "Linear",
                 "NumberMode": "Normal"
@@ -48494,7 +48494,7 @@
                 "Type": "Y",
                 "GridLines": false,
                 "Visible": true,
-                "DefaultColor": "White",
+                "DefaultColor": "#FFFFFF",
                 "DefaultLineStyle": "Solid",
                 "Scaling": "Linear",
                 "NumberMode": "Normal"
@@ -48506,7 +48506,7 @@
                 "X": "",
                 "Y": "Bovill 1984|Organism|PeripheralVenousBlood|Sufentanil|Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|Plasma (Peripheral Venous Blood)",
                 "CurveOptions": {
-                  "Color": "255, 0, 0",
+                  "Color": "#FF0000",
                   "LegendIndex": 1,
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -48517,7 +48517,7 @@
                 "X": "",
                 "Y": "Taverne 1992|Organism|PeripheralVenousBlood|Sufentanil|Taverne 1992 Figure 1 mean|Plasma (Peripheral Venous Blood)",
                 "CurveOptions": {
-                  "Color": "0, 0, 255",
+                  "Color": "#0000FF",
                   "LegendIndex": 2,
                   "LineStyle": "None",
                   "Symbol": "Circle"
@@ -48528,7 +48528,7 @@
                 "X": "",
                 "Y": "Willsie 2014 adults IV|Organism|PeripheralVenousBlood|Sufentanil|Willsie 2014 Figure 1 IV mean|Plasma (Peripheral Venous Blood)",
                 "CurveOptions": {
-                  "Color": "0, 128, 0",
+                  "Color": "#008000",
                   "LegendIndex": 3,
                   "LineStyle": "None",
                   "Symbol": "Circle"
