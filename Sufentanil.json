@@ -43577,23 +43577,7 @@
               "Unit": "Log Units",
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
-                "Method": "ParameterIdentification",
-                "Description": "Fited LogP"
-              }
-            }
-          ]
-        },
-        {
-          "Name": "Zhou 2017",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Lipophilicity",
-              "Value": 3.95,
-              "Unit": "Log Units",
-              "ValueOrigin": {
-                "Source": "Publication",
-                "Description": "Zhou et al. 2017"
+                "Method": "ParameterIdentification"
               }
             }
           ]
@@ -43617,29 +43601,6 @@
       ],
       "Solubility": [
         {
-          "Name": "Measurement",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Solubility at reference pH",
-              "Value": 0.012,
-              "Unit": "mg/l",
-              "ValueOrigin": {
-                "Source": "Internet",
-                "Description": "ALOGPS via Drugbank.ca"
-              }
-            },
-            {
-              "Name": "Reference pH",
-              "Value": 7.0,
-              "ValueOrigin": {
-                "Source": "Internet",
-                "Description": "ALOGPS via Drugbank.ca"
-              }
-            }
-          ]
-        },
-        {
           "Name": "ROY,SD & FLYNN,GL (1988)",
           "Parameters": [
             {
@@ -43647,18 +43608,18 @@
               "Value": 0.076,
               "Unit": "mg/l",
               "ValueOrigin": {
-                "Source": "ParameterIdentification",
-                "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 3' on 2018-10-15 17:46"
+                "Source": "Internet",
+                "Method": "Other",
+                "Description": "ROY,SD & FLYNN,GL (1988)"
               }
             },
             {
               "Name": "Reference pH",
               "Value": 7.0,
               "ValueOrigin": {
-                "Source": "ParameterIdentification",
-                "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 3' on 2018-10-15 17:46"
+                "Source": "Internet",
+                "Method": "Other",
+                "Description": "ROY,SD & FLYNN,GL (1988)"
               }
             }
           ]
@@ -43669,7 +43630,8 @@
           "Type": "Base",
           "Pka": 8.0,
           "ValueOrigin": {
-            "Source": "Unknown"
+            "Source": "Publication",
+            "Description": "Zhou et al. 2017"
           }
         }
       ],
