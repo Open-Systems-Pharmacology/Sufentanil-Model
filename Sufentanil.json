@@ -43811,7 +43811,7 @@
         },
         {
           "Name": "InputDose",
-          "Value": 0.000313,
+          "Value": 0.00313,
           "Unit": "mg/kg"
         }
       ]
@@ -44489,11 +44489,8 @@
       ]
     },
     {
-      "Name": "Guay 1991 patient 10",
+      "Name": "Guay 1991 patient 1",
       "Model": "4Comp",
-      "ObservedData": [
-        "Guay_1991_Figure_c.ID10 3.08ugkg"
-      ],
       "Solver": {},
       "OutputSchema": [
         {
@@ -44524,7 +44521,122 @@
             },
             {
               "Name": "End time",
-              "Value": 7.0,
+              "Value": 360.0,
+              "Unit": "min",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Guay 1991 patient 1",
+      "Compounds": [
+        {
+          "Name": "Sufentanil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Zhou et al. 2017",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Guay 1991 patient 1"
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Guay 1991 patient 1-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Guay 1991 patient 1|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "OriginText": "Sufentanil\nGuay 1991 patient 1\n2019-06-27 10:38"
+        }
+      ]
+    },
+    {
+      "Name": "Guay 1991 patient 10",
+      "Model": "4Comp",
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 4.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -44599,17 +44711,6 @@
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
-            },
-            {
-              "Name": "Guay_1991_Figure_c.ID10 3.08ugkg 1-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Guay_1991_Figure_c.ID10 3.08ugkg|Time",
-              "Y": "Guay_1991_Figure_c.ID10 3.08ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
-              "CurveOptions": {
-                "Color": "#008000",
-                "LegendIndex": 3,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
             }
           ],
           "Name": "Time Profile Analysis",
@@ -44626,76 +44727,16 @@
               "WatermarkSize": 32
             }
           },
-          "OriginText": "Sufentanil\nGuay 1991 patient 10\n2019-06-14 13:34"
-        },
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µg/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Guay 1991 patient 10-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Guay 1991 patient 10|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Guay_1991_Figure_c.ID10 3.08ugkg 1-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Guay_1991_Figure_c.ID10 3.08ugkg|Time",
-              "Y": "Guay_1991_Figure_c.ID10 3.08ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
-              "CurveOptions": {
-                "Color": "#008000",
-                "LegendIndex": 3,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis 1",
-          "FontAndSize": {
-            "ChartWidth": 400,
-            "ChartHeight": 400,
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "OriginText": "Sufentanil\nGuay 1991 patient 10\n2019-06-14 13:34"
+          "OriginText": "Sufentanil\nGuay 1991 patient 10\n2019-06-27 10:52"
         }
       ]
     },
     {
       "Name": "Guay 1991 patient 11",
       "Model": "4Comp",
+      "ObservedData": [
+        "Guay_1991_Figure_c.ID11 3.13ugkg"
+      ],
       "Solver": {},
       "OutputSchema": [
         {
@@ -44726,8 +44767,8 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
+              "Value": 420.0,
+              "Unit": "min",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
@@ -44781,7 +44822,7 @@
               "NumberMode": "Normal"
             },
             {
-              "Unit": "µmol/l",
+              "Unit": "µg/l",
               "Dimension": "Concentration (molar)",
               "Type": "Y",
               "GridLines": false,
@@ -44801,10 +44842,71 @@
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
+            },
+            {
+              "Name": "Guay_1991_Figure_c.ID11 3.13ugkg-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Guay_1991_Figure_c.ID11 3.13ugkg|Time",
+              "Y": "Guay_1991_Figure_c.ID11 3.13ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 11\n2019-06-14 13:34"
+          "OriginText": "Sufentanil\nGuay 1991 patient 11\n2019-06-27 10:37"
+        },
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µg/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Guay 1991 patient 11-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Guay 1991 patient 11|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Guay_1991_Figure_c.ID11 3.13ugkg-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Guay_1991_Figure_c.ID11 3.13ugkg|Time",
+              "Y": "Guay_1991_Figure_c.ID11 3.13ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 2,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis 1",
+          "OriginText": "Sufentanil\nGuay 1991 patient 11\n2019-06-27 10:37"
         }
       ]
     },
@@ -44841,7 +44943,7 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
+              "Value": 4.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -44919,7 +45021,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 12\n2019-06-14 13:34"
+          "OriginText": "Sufentanil\nGuay 1991 patient 12\n2019-06-27 10:55"
         }
       ]
     },
@@ -44956,7 +45058,7 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
+              "Value": 7.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -45034,7 +45136,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 13\n2019-06-14 13:34"
+          "OriginText": "Sufentanil\nGuay 1991 patient 13\n2019-06-27 10:56"
         }
       ]
     },
@@ -45071,7 +45173,7 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
+              "Value": 7.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -45149,7 +45251,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 14\n2019-06-14 13:34"
+          "OriginText": "Sufentanil\nGuay 1991 patient 14\n2019-06-27 10:56"
         }
       ]
     },
@@ -45186,8 +45288,8 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
+              "Value": 180.0,
+              "Unit": "min",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
@@ -45264,7 +45366,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 15\n2019-06-14 13:35"
+          "OriginText": "Sufentanil\nGuay 1991 patient 15\n2019-06-27 10:56"
         }
       ]
     },
@@ -45301,8 +45403,8 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
+              "Value": 240.0,
+              "Unit": "min",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
@@ -45379,7 +45481,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 16\n2019-06-14 13:35"
+          "OriginText": "Sufentanil\nGuay 1991 patient 16\n2019-06-27 10:57"
         }
       ]
     },
@@ -45416,7 +45518,7 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
+              "Value": 3.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -45494,7 +45596,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 17\n2019-06-14 13:35"
+          "OriginText": "Sufentanil\nGuay 1991 patient 17\n2019-06-27 10:57"
         }
       ]
     },
@@ -45531,7 +45633,7 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
+              "Value": 3.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -45609,7 +45711,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 18\n2019-06-14 13:35"
+          "OriginText": "Sufentanil\nGuay 1991 patient 18\n2019-06-27 10:57"
         }
       ]
     },
@@ -45646,8 +45748,8 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
+              "Value": 240.0,
+              "Unit": "min",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
@@ -45724,7 +45826,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 19\n2019-06-14 13:36"
+          "OriginText": "Sufentanil\nGuay 1991 patient 19\n2019-06-27 10:58"
         }
       ]
     },
@@ -45742,34 +45844,12 @@
             },
             {
               "Name": "End time",
-              "Value": 2.0,
+              "Value": 1.0,
               "Unit": "h"
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
               "Unit": "pts/h"
             }
           ]
@@ -45839,7 +45919,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 2\n2019-06-14 13:36"
+          "OriginText": "Sufentanil\nGuay 1991 patient 2\n2019-06-27 10:41"
         }
       ]
     },
@@ -45876,7 +45956,7 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
+              "Value": 3.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -45954,7 +46034,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 20\n2019-06-14 13:36"
+          "OriginText": "Sufentanil\nGuay 1991 patient 20\n2019-06-27 10:59"
         }
       ]
     },
@@ -46196,7 +46276,7 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
+              "Value": 4.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -46274,7 +46354,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 4\n2019-06-14 13:36"
+          "OriginText": "Sufentanil\nGuay 1991 patient 4\n2019-06-27 10:42"
         }
       ]
     },
@@ -46311,8 +46391,8 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
+              "Value": 300.0,
+              "Unit": "min",
               "ValueOrigin": {
                 "Source": "Unknown"
               }
@@ -46389,7 +46469,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 5\n2019-06-14 13:37"
+          "OriginText": "Sufentanil\nGuay 1991 patient 5\n2019-06-27 10:42"
         }
       ]
     },
@@ -46413,28 +46493,6 @@
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
               "Unit": "pts/h"
             }
           ]
@@ -46504,7 +46562,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 6\n2019-06-14 13:37"
+          "OriginText": "Sufentanil\nGuay 1991 patient 6\n2019-06-27 10:43"
         }
       ]
     },
@@ -46541,7 +46599,7 @@
             },
             {
               "Name": "End time",
-              "Value": 8.0,
+              "Value": 7.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -46619,7 +46677,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 7\n2019-06-14 13:37"
+          "OriginText": "Sufentanil\nGuay 1991 patient 7\n2019-06-27 10:44"
         }
       ]
     },
@@ -46643,28 +46701,6 @@
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
               "Unit": "pts/h"
             }
           ]
@@ -46734,7 +46770,7 @@
             }
           ],
           "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 9\n2019-06-14 13:38"
+          "OriginText": "Sufentanil\nGuay 1991 patient 9\n2019-06-27 10:46"
         }
       ]
     },
@@ -47738,121 +47774,6 @@
           "OriginText": "Sufentanil\nWillsie 2014 adults IV (for reporting)\n2019-06-19 17:23"
         }
       ]
-    },
-    {
-      "Name": "Guay 1991 patient 1",
-      "Model": "4Comp",
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)"
-      ],
-      "Individual": "Guay 1991 patient 1",
-      "Compounds": [
-        {
-          "Name": "Sufentanil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Schmitt",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Zhou et al. 2017",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Guay 1991 patient 1"
-          }
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Guay 1991 patient 1-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Guay 1991 patient 1|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 1\n2019-06-26 23:11"
-        }
-      ]
     }
   ],
   "ParameterIdentifications": [
@@ -48516,7 +48437,7 @@
       }
     },
     {
-      "Name": "Guay_1991_Figure_c.ID10 3.08ugkg",
+      "Name": "Guay_1991_Figure_c.ID11 3.13ugkg",
       "ExtendedProperties": [
         {
           "Name": "Source",
@@ -48528,7 +48449,7 @@
         },
         {
           "Name": "Sheet",
-          "Value": "ID10 3.08ugkg"
+          "Value": "ID11 3.13ugkg"
         },
         {
           "Name": "Molecule",
@@ -48552,7 +48473,7 @@
         },
         {
           "Name": "Patient Id",
-          "Value": "ID10"
+          "Value": "ID11"
         }
       ],
       "Columns": [
@@ -48560,7 +48481,7 @@
           "Name": "Concentration",
           "QuantityInfo": {
             "Name": "Concentration",
-            "Path": "Guay_1991_Figure_c.ID10 3.08ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration"
+            "Path": "Guay_1991_Figure_c.ID11 3.13ugkg|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Concentration"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -48570,28 +48491,28 @@
             "MolWeight": 386.6
           },
           "Values": [
-            0.005089401,
-            0.001905461,
-            0.001359356,
-            0.000806615746,
-            0.0006118806,
-            0.000575439946,
-            0.0002840098,
-            0.00019054611,
-            0.00019054611,
-            0.00014017371,
-            8.576959E-05,
-            6.70913651E-05
+            5.089401,
+            1.905461,
+            1.35935593,
+            0.8066157,
+            0.6118806,
+            0.57543993,
+            0.284009784,
+            0.19054611,
+            0.19054611,
+            0.1401737,
+            0.08576959,
+            0.06709137
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
           "Name": "Time",
-          "Path": "Guay_1991_Figure_c.ID10 3.08ugkg|Time",
+          "Path": "Guay_1991_Figure_c.ID11 3.13ugkg|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -49031,7 +48952,7 @@
     {
       "Name": "Children",
       "Classifiables": [
-        "Guay_1991_Figure_c.ID10 3.08ugkg",
+        "Guay_1991_Figure_c.ID11 3.13ugkg",
         "Guay_1991_Figure_c. ID8 3.14 ugkg",
         "Guay_1991_Figure_c.ID3 3.54ugkg"
       ]
@@ -49065,7 +48986,6 @@
               "Name": "Guay 1991",
               "Classifiables": [
                 "Guay 1991 patient 10",
-                "Guay 1991 patient 11",
                 "Guay 1991 patient 12",
                 "Guay 1991 patient 13",
                 "Guay 1991 patient 14",
@@ -49083,7 +49003,8 @@
                 "Guay 1991 patient 7",
                 "Guay 1991 patient 9",
                 "Guay 1991 patient 8",
-                "Guay 1991 patient 1"
+                "Guay 1991 patient 1",
+                "Guay 1991 patient 11"
               ]
             }
           ]
