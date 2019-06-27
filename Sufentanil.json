@@ -6,8 +6,8 @@
       "Seed": 2515843,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -1400,8 +1400,8 @@
       "Seed": 290705616,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -2803,8 +2803,8 @@
       "Seed": 290770123,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -4206,8 +4206,8 @@
       "Seed": 290799622,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -5609,8 +5609,8 @@
       "Seed": 290877077,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -7008,8 +7008,8 @@
       "Seed": 290988009,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -8411,8 +8411,8 @@
       "Seed": 291015434,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -9814,8 +9814,8 @@
       "Seed": 291036073,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -11217,8 +11217,8 @@
       "Seed": 291113964,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -12624,8 +12624,8 @@
       "Seed": 291189703,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -14023,8 +14023,8 @@
       "Seed": 291222229,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -15430,8 +15430,8 @@
       "Seed": 291251932,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -16837,8 +16837,8 @@
       "Seed": 291289310,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -18244,8 +18244,8 @@
       "Seed": 291318154,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -19651,8 +19651,8 @@
       "Seed": 291354144,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -21058,8 +21058,8 @@
       "Seed": 291390039,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -22465,8 +22465,8 @@
       "Seed": 291423065,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -23872,8 +23872,8 @@
       "Seed": 291447042,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -25279,8 +25279,8 @@
       "Seed": 291480926,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -26686,8 +26686,8 @@
       "Seed": 291514325,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -28093,8 +28093,8 @@
       "Seed": 291737703,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -29500,8 +29500,8 @@
       "Seed": 291761930,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -30907,8 +30907,8 @@
       "Seed": 291785564,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -32314,8 +32314,8 @@
       "Seed": 291807576,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -33721,8 +33721,8 @@
       "Seed": 291828324,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -35128,8 +35128,8 @@
       "Seed": 291850352,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -36535,8 +36535,8 @@
       "Seed": 291876482,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -37942,8 +37942,8 @@
       "Seed": 291898306,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -39349,8 +39349,8 @@
       "Seed": 291935715,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -40752,8 +40752,8 @@
       "Seed": 291971798,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -42159,8 +42159,8 @@
       "Seed": 292003888,
       "OriginData": {
         "CalculationMethods": [
-          "Body surface area - Mosteller",
-          "SurfaceAreaPlsInt_VAR1"
+          "SurfaceAreaPlsInt_VAR1",
+          "Body surface area - Mosteller"
         ],
         "Species": "Human",
         "Population": "European_ICRP_2002",
@@ -43862,7 +43862,7 @@
         },
         {
           "Name": "InputDose",
-          "Value": 1.0,
+          "Value": 0.00194,
           "Unit": "mg/kg"
         }
       ]
@@ -44202,16 +44202,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -44417,16 +44407,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -44509,131 +44489,6 @@
       ]
     },
     {
-      "Name": "Guay 1991 patient 1",
-      "Model": "4Comp",
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "Resolution",
-              "Value": 20.0,
-              "Unit": "pts/h"
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 2.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 8.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 4.0,
-              "Unit": "pts/h"
-            }
-          ]
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)"
-      ],
-      "Individual": "Guay 1991 patient 1",
-      "Compounds": [
-        {
-          "Name": "Sufentanil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Schmitt",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Zhou et al. 2017",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Guay 1991 patient 1"
-          }
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "µmol/l",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "Guay 1991 patient 1-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Guay 1991 patient 1|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "OriginText": "Sufentanil\nGuay 1991 patient 1\n2019-06-14 13:33"
-        }
-      ]
-    },
-    {
       "Name": "Guay 1991 patient 10",
       "Model": "4Comp",
       "ObservedData": [
@@ -44693,16 +44548,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -44906,16 +44751,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -45030,16 +44865,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -45156,16 +44981,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -45280,16 +45095,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -45406,16 +45211,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -45530,16 +45325,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -45656,16 +45441,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -45780,16 +45555,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -45906,16 +45671,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -46031,16 +45786,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -46155,16 +45900,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -46283,16 +46018,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -46496,16 +46221,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -46620,16 +46335,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -46746,16 +46451,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -46871,16 +46566,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -46995,16 +46680,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -47123,16 +46798,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -47343,16 +47008,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -47475,16 +47130,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -47602,16 +47247,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -47754,16 +47389,6 @@
           "CalculationMethods": [
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
           ],
           "Processes": [
             {
@@ -47970,16 +47595,6 @@
             "Cellular partition coefficient method - Schmitt",
             "Cellular permeability - PK-Sim Standard"
           ],
-          "Alternatives": [
-            {
-              "AlternativeName": "ROY,SD & FLYNN,GL (1988)",
-              "GroupName": "COMPOUND_SOLUBILITY"
-            },
-            {
-              "AlternativeName": "Fitted LogP",
-              "GroupName": "COMPOUND_LIPOPHILICITY"
-            }
-          ],
           "Processes": [
             {
               "Name": "CYP3A4-Zhou et al. 2017",
@@ -48123,6 +47738,121 @@
           "OriginText": "Sufentanil\nWillsie 2014 adults IV (for reporting)\n2019-06-19 17:23"
         }
       ]
+    },
+    {
+      "Name": "Guay 1991 patient 1",
+      "Model": "4Comp",
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h"
+            }
+          ]
+        },
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 2.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 8.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 4.0,
+              "Unit": "pts/h"
+            }
+          ]
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)"
+      ],
+      "Individual": "Guay 1991 patient 1",
+      "Compounds": [
+        {
+          "Name": "Sufentanil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Schmitt",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Zhou et al. 2017",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Guay 1991 patient 1"
+          }
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "µmol/l",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "Guay 1991 patient 1-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Guay 1991 patient 1|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "OriginText": "Sufentanil\nGuay 1991 patient 1\n2019-06-26 23:11"
+        }
+      ]
     }
   ],
   "ParameterIdentifications": [
@@ -48150,7 +47880,7 @@
             },
             {
               "Name": "MaxIterations",
-              "Value": 10000
+              "Value": 10000.0
             }
           ]
         }
@@ -48451,7 +48181,6 @@
               },
               {
                 "Unit": "",
-                "Dimension": "Dimensionless",
                 "Caption": "Residuals",
                 "Type": "Y",
                 "GridLines": false,
@@ -48462,235 +48191,8 @@
                 "NumberMode": "Normal"
               }
             ],
-            "Curves": [
-              {
-                "Name": "Bovill 1984|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-                "X": "",
-                "Y": "Bovill 1984|Organism|PeripheralVenousBlood|Sufentanil|Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#FF0000",
-                  "LegendIndex": 1,
-                  "LineStyle": "None",
-                  "Symbol": "Circle"
-                }
-              },
-              {
-                "Name": "Taverne 1992|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-                "X": "",
-                "Y": "Taverne 1992|Organism|PeripheralVenousBlood|Sufentanil|Taverne 1992 Figure 1 mean|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#0000FF",
-                  "LegendIndex": 2,
-                  "LineStyle": "None",
-                  "Symbol": "Circle"
-                }
-              },
-              {
-                "Name": "Willsie 2014 adults IV|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-                "X": "",
-                "Y": "Willsie 2014 adults IV|Organism|PeripheralVenousBlood|Sufentanil|Willsie 2014 Figure 1 IV mean|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#008000",
-                  "LegendIndex": 3,
-                  "LineStyle": "None",
-                  "Symbol": "Circle"
-                }
-              }
-            ],
             "Name": "Residuals vs. Time"
-          },
-          "DataRepositories": [
-            {
-              "Name": "Simulation Results for Run 1",
-              "Columns": [
-                {
-                  "Name": "Values",
-                  "QuantityInfo": {
-                    "Path": "Bovill 1984|Organism|PeripheralVenousBlood|Sufentanil|Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1|Plasma (Peripheral Venous Blood)"
-                  },
-                  "DataInfo": {
-                    "Origin": "CalculationAuxiliary",
-                    "AuxiliaryType": "Undefined",
-                    "Date": "2019-06-14T11:05:13.2656506+02:00"
-                  },
-                  "Values": [
-                    -0.292107821,
-                    -0.0491270125,
-                    -0.185615331,
-                    -0.216499925,
-                    -0.195682958,
-                    -0.1278077,
-                    -0.114273474,
-                    -0.0530178063,
-                    -0.06830854,
-                    -0.126736164,
-                    -0.15557909,
-                    -0.1340766,
-                    -0.138093218,
-                    -0.163904622
-                  ],
-                  "Dimension": "Dimensionless"
-                }
-              ],
-              "BaseGrid": {
-                "Name": "Time",
-                "QuantityInfo": {
-                  "Type": "Time"
-                },
-                "DataInfo": {
-                  "Origin": "BaseGrid",
-                  "AuxiliaryType": "Undefined",
-                  "Date": "2019-06-14T11:05:13.2656506+02:00"
-                },
-                "Values": [
-                  0.0167,
-                  0.083,
-                  0.167000011,
-                  0.25,
-                  0.5,
-                  0.75,
-                  1.0,
-                  2.0,
-                  3.0,
-                  4.0,
-                  5.0,
-                  6.0,
-                  7.0,
-                  8.0
-                ],
-                "Dimension": "Time",
-                "Unit": "h"
-              }
-            },
-            {
-              "Name": "Simulation Results for Run 1",
-              "Columns": [
-                {
-                  "Name": "Values",
-                  "QuantityInfo": {
-                    "Path": "Taverne 1992|Organism|PeripheralVenousBlood|Sufentanil|Taverne 1992 Figure 1 mean|Plasma (Peripheral Venous Blood)"
-                  },
-                  "DataInfo": {
-                    "Origin": "CalculationAuxiliary",
-                    "AuxiliaryType": "Undefined",
-                    "Date": "2019-06-14T11:05:13.2656506+02:00"
-                  },
-                  "Values": [
-                    0.0,
-                    0.1913897,
-                    0.0575872064,
-                    0.22918725,
-                    0.2885607,
-                    0.3382036,
-                    0.368322164,
-                    0.3865858,
-                    0.33897686,
-                    0.2437227,
-                    -0.1069378
-                  ],
-                  "Dimension": "Dimensionless"
-                }
-              ],
-              "BaseGrid": {
-                "Name": "Time",
-                "QuantityInfo": {
-                  "Type": "Time"
-                },
-                "DataInfo": {
-                  "Origin": "BaseGrid",
-                  "AuxiliaryType": "Undefined",
-                  "Date": "2019-06-14T11:05:13.2656506+02:00"
-                },
-                "Values": [
-                  0.0,
-                  0.25,
-                  0.3,
-                  0.5,
-                  0.75,
-                  1.0,
-                  1.5,
-                  2.0,
-                  2.5,
-                  3.0,
-                  5.63932
-                ],
-                "Dimension": "Time",
-                "Unit": "h"
-              }
-            },
-            {
-              "Name": "Simulation Results for Run 1",
-              "Columns": [
-                {
-                  "Name": "Values",
-                  "QuantityInfo": {
-                    "Path": "Willsie 2014 adults IV|Organism|PeripheralVenousBlood|Sufentanil|Willsie 2014 Figure 1 IV mean|Plasma (Peripheral Venous Blood)"
-                  },
-                  "DataInfo": {
-                    "Origin": "CalculationAuxiliary",
-                    "AuxiliaryType": "Undefined",
-                    "Date": "2019-06-14T11:05:13.2656506+02:00"
-                  },
-                  "Values": [
-                    0.3983642,
-                    0.132680327,
-                    -0.06956969,
-                    -0.15570198,
-                    -0.119323529,
-                    -0.112138949,
-                    -0.171189681,
-                    -0.110535286,
-                    -0.0890690759,
-                    -0.0330457054,
-                    -0.040345978,
-                    -0.0279275589,
-                    -0.0693484843,
-                    0.04642766,
-                    0.155697256,
-                    0.128757268,
-                    0.0061280285,
-                    0.03834706,
-                    0.0
-                  ],
-                  "Dimension": "Dimensionless"
-                }
-              ],
-              "BaseGrid": {
-                "Name": "Time",
-                "QuantityInfo": {
-                  "Type": "Time"
-                },
-                "DataInfo": {
-                  "Origin": "BaseGrid",
-                  "AuxiliaryType": "Undefined",
-                  "Date": "2019-06-14T11:05:13.2656506+02:00"
-                },
-                "Values": [
-                  0.0166666675,
-                  0.06666667,
-                  0.116666667,
-                  0.166666672,
-                  0.25,
-                  0.333333343,
-                  0.5,
-                  0.75,
-                  1.0,
-                  1.5,
-                  2.0,
-                  3.0,
-                  4.0,
-                  6.0,
-                  8.0,
-                  10.0,
-                  12.0,
-                  14.0,
-                  24.0
-                ],
-                "Dimension": "Time",
-                "Unit": "h"
-              }
-            }
-          ]
+          }
         },
         {
           "Name": "Histogram of Residuals",
@@ -48852,23 +48354,23 @@
             "MolWeight": 386.6
           },
           "Values": [
-            36.0874329,
-            8.007425,
-            4.910575,
-            3.61306286,
-            2.173929,
-            1.525026,
-            1.271378,
-            0.6630678,
-            0.44375962,
-            0.3495893,
-            0.2727615,
-            0.1989966,
-            0.159798488,
-            0.138552412
+            0.03608743,
+            0.008007425,
+            0.004910575,
+            0.003613063,
+            0.002173929,
+            0.001525026,
+            0.001271378,
+            0.0006630678,
+            0.0004437596,
+            0.0003495893,
+            0.000272761477,
+            0.0001989966,
+            0.0001597985,
+            0.000138552408
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/l"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -49068,21 +48570,21 @@
             "MolWeight": 386.6
           },
           "Values": [
-            5.089401,
-            1.905461,
-            1.35935593,
-            0.8066157,
-            0.6118806,
-            0.57543993,
-            0.284009784,
-            0.19054611,
-            0.19054611,
-            0.1401737,
-            0.08576959,
-            0.06709137
+            0.005089401,
+            0.001905461,
+            0.001359356,
+            0.000806615746,
+            0.0006118806,
+            0.000575439946,
+            0.0002840098,
+            0.00019054611,
+            0.00019054611,
+            0.00014017371,
+            8.576959E-05,
+            6.70913651E-05
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/l"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -49171,17 +48673,17 @@
             "MolWeight": 386.6
           },
           "Values": [
-            1.905461,
-            0.7585776,
-            0.5248074,
-            0.374397784,
-            0.2511886,
-            0.1318257,
-            0.103117704,
-            0.05580417
+            0.001905461,
+            0.0007585776,
+            0.00052480743,
+            0.0003743978,
+            0.000251188583,
+            0.0001318257,
+            0.0001031177,
+            5.5804172E-05
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/l"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -49266,18 +48768,18 @@
             "MolWeight": 386.6
           },
           "Values": [
-            5.248075,
-            2.089296,
-            1.318257,
-            0.8317638,
-            0.6118806,
-            0.3630781,
-            0.1737801,
-            0.0806615651,
-            0.09120108
+            0.005248075,
+            0.002089296,
+            0.001318257,
+            0.000831763842,
+            0.0006118806,
+            0.000363078085,
+            0.0001737801,
+            8.06615644E-05,
+            9.120108E-05
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/l"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -49363,19 +48865,19 @@
             "MolWeight": 386.6
           },
           "Values": [
-            0.6509583,
-            0.7741397,
-            0.3842289,
-            0.274667084,
-            0.2106011,
-            0.1508382,
-            0.1138232,
-            0.1018748,
-            0.1035668,
-            0.1028565
+            0.0006509583,
+            0.0007741397,
+            0.0003842289,
+            0.0002746671,
+            0.000210601109,
+            0.0001508382,
+            0.000113823204,
+            0.0001018748,
+            0.0001035668,
+            0.0001028565
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/l"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -49454,27 +48956,27 @@
             "MolWeight": 386.6
           },
           "Values": [
-            0.3239958,
-            0.2748004,
-            0.2256015,
-            0.182727188,
-            0.1138495,
-            0.08995116,
-            0.08151227,
-            0.05831169,
-            0.04776265,
-            0.0322854221,
-            0.02594564,
-            0.01678016,
-            0.01323637,
-            0.006150492,
-            0.003280658,
-            0.002518425,
-            0.002459857,
-            0.001699322
+            0.0003239958,
+            0.000274800375,
+            0.0002256015,
+            0.000182727192,
+            0.0001138495,
+            8.995116E-05,
+            8.151227E-05,
+            5.831169E-05,
+            4.77626527E-05,
+            3.228542E-05,
+            2.594564E-05,
+            1.678016E-05,
+            1.323637E-05,
+            6.150492E-06,
+            3.28065812E-06,
+            2.518425E-06,
+            2.459857E-06,
+            1.699322E-06
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "µg/l"
+          "Unit": "mg/l"
         }
       ],
       "BaseGrid": {
@@ -49519,9 +49021,9 @@
     {
       "Name": "Adults",
       "Classifiables": [
+        "Taverne 1992 Figure 1 mean",
         "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1",
         "Willsie 2014 Figure 1 IV mean",
-        "Taverne 1992 Figure 1 mean",
         "Taverne 1992 Figure 1 mean (for reporting)",
         "Willsie 2014 Figure 1 IV mean (for reporting)"
       ]
@@ -49562,7 +49064,6 @@
             {
               "Name": "Guay 1991",
               "Classifiables": [
-                "Guay 1991 patient 1",
                 "Guay 1991 patient 10",
                 "Guay 1991 patient 11",
                 "Guay 1991 patient 12",
@@ -49581,7 +49082,8 @@
                 "Guay 1991 patient 6",
                 "Guay 1991 patient 7",
                 "Guay 1991 patient 9",
-                "Guay 1991 patient 8"
+                "Guay 1991 patient 8",
+                "Guay 1991 patient 1"
               ]
             }
           ]
