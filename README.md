@@ -1,9 +1,7 @@
 # Sufentanil-Model
 Whole-body PBPK model of Sufentanil
 
-<p align="center">
-  <img src="Sufentanil.png">
-</p>
+<a title="Sufentanil" href="https://commons.wikimedia.org/wiki/File:Sufentanil.svg"><img width="512" alt="Sufentanil" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sufentanil.svg/512px-Sufentanil.svg.png"></a>
 
 ## Repository files
 
