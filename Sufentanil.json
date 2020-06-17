@@ -47469,15 +47469,6 @@
           ],
           "Curves": [
             {
-              "Name": "Taverne 1992 (for reporting)-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "Taverne 1992 (for reporting)|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 1
-              }
-            },
-            {
               "Name": "Taverne 1992 Figure 1 mean-Sufentanil-Peripheral Venous Blood-Plasma-Figure 1 mean sufentanil IV (Concentration) ",
               "X": "Taverne 1992 Figure 1 mean|Time ",
               "Y": "Taverne 1992 Figure 1 mean|ObservedData|Peripheral Venous Blood|Plasma|Sufentanil|Figure 1 mean sufentanil IV (Concentration) ",
@@ -47486,6 +47477,15 @@
                 "LegendIndex": 2,
                 "LineStyle": "None",
                 "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Taverne 1992 (for reporting)-Sufentanil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "Taverne 1992 (for reporting)|Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 1
               }
             }
           ],
@@ -47503,7 +47503,7 @@
               "WatermarkSize": 32
             }
           },
-          "OriginText": "Sufentanil\nTaverne 1992 (for reporting)\n2019-06-19 17:17"
+          "OriginText": "Sufentanil\nTaverne 1992 (for reporting)\n2020-06-17 16:59"
         },
         {
           "Axes": [
@@ -47566,7 +47566,7 @@
               "WatermarkSize": 32
             }
           },
-          "OriginText": "Sufentanil\nTaverne 1992 (for reporting)\n2019-06-19 17:17"
+          "OriginText": "Sufentanil\nTaverne 1992 (for reporting)\n2020-06-17 16:59"
         }
       ]
     },
@@ -48178,20 +48178,20 @@
             "MolWeight": 386.6
           },
           "Values": [
-            2.29777015E-06,
-            0.0006509583,
-            0.0007741397,
-            0.0003842289,
-            0.0002746671,
-            0.000210601109,
-            0.0001508382,
-            0.000113823204,
-            0.0001018748,
-            0.0001035668,
-            0.0001028565
+            0.00229777,
+            0.6509583,
+            0.7741397,
+            0.3842289,
+            0.2746671,
+            0.2106011,
+            0.1508382,
+            0.1138232,
+            0.1018748,
+            0.1035668,
+            0.1028565
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
@@ -48786,19 +48786,19 @@
             "MolWeight": 386.6
           },
           "Values": [
-            0.0006509583,
-            0.0007741397,
-            0.0003842289,
-            0.0002746671,
-            0.000210601109,
-            0.0001508382,
-            0.000113823204,
-            0.0001018748,
-            0.0001035668,
-            0.0001028565
+            0.6509583,
+            0.7741397,
+            0.3842289,
+            0.274667084,
+            0.2106011,
+            0.1508382,
+            0.1138232,
+            0.1018748,
+            0.1035668,
+            0.1028565
           ],
           "Dimension": "Concentration (mass)",
-          "Unit": "mg/l"
+          "Unit": "µg/l"
         }
       ],
       "BaseGrid": {
