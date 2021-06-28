@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Sufentanil",
-            "Path": "https://github.com/Open-Systems-Pharmacology/Sufentanil-Model/releases/download/v1.1/Sufentanil.json",
+            "Path": "../../Sufentanil.json",
             "BuildingBlocks": []
         }
     ],
