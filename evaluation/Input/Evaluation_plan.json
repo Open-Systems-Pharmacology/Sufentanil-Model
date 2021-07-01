@@ -1,0 +1,257 @@
+﻿{
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.1/OSP_Qualification_Plan_Schema.json",
+    "Projects": [
+        {
+            "Id": "Sufentanil",
+            "Path": "../../Sufentanil.json",
+            "BuildingBlocks": []
+        }
+    ],
+    "ObservedDataSets": [],
+    "Plots": {
+        "PlotSettings": {
+            "ChartWidth": 500,
+            "ChartHeight": 400,
+            "Fonts": {
+                "AxisSize": 11,
+                "LegendSize": 9,
+                "OriginSize": 9,
+                "FontFamilyName": "Arial",
+                "WatermarkSize": 40
+            }
+        },
+        "AxesSettings": {
+            "ComparisonTimeProfile": [
+                {
+                    "Unit": "h",
+                    "Dimension": "Time",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Unit": "µg/l",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsPredictedVsObserved": [
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsResidualsVsObserved": [
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "GOFMergedPlotsPredictedVsObserved": [
+                {
+                    "Unit": "µg/l",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "µg/l",
+                    "Dimension": "Concentration (mass)",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "GOFMergedPlotsResidualsOverTime": [
+                {
+                    "Unit": "h",
+                    "Dimension": "Time",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "PKRatioPlots": [
+                {
+                    "Unit": "year(s)",
+                    "Dimension": "Age",
+                    "Type": "X",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Unit": "",
+                    "Dimension": "Dimensionless",
+                    "Type": "Y",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ]
+        },
+        "AllPlots": [
+            {
+                "Project": "Sufentanil",
+                "Simulation": "Bovill 1984",
+                "SectionId": 42
+            },
+            {
+                "Project": "Sufentanil",
+                "Simulation": "Willsie 2014 adults IV (for reporting)",
+                "SectionId": 42
+            },
+            {
+                "Project": "Sufentanil",
+                "Simulation": "Taverne 1992 (for reporting)",
+                "SectionId": 42
+            }
+        ],
+        "GOFMergedPlots": [
+            {
+                "Title": "Goodness of fit plor for concentration in plasma.",
+                "SectionId": 41,
+                "Artifacts": [
+                    "Plot",
+                    "GMFE",
+                    "Measure"
+                ],
+                "PlotType": "predictedVsObserved|residualsOverTime",
+                "Groups": [
+                    {
+                        "Caption": "Sufentanil iv",
+                        "Symbol": "Triangle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Sufentanil",
+                                "Simulation": "Bovill 1984",
+                                "Output": "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Sufentanil",
+                                "Simulation": "Willsie 2014 adults IV (for reporting)",
+                                "Output": "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Willsie 2014 Figure 1 IV mean (for reporting)",
+                                "Color": "#000000"
+                            },
+                            {
+                                "Project": "Sufentanil",
+                                "Simulation": "Taverne 1992 (for reporting)",
+                                "Output": "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Taverne 1992 Figure 1 mean (for reporting)",
+                                "Color": "#000000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "ComparisonTimeProfilePlots": [],
+        "DDIRatioPlots": [],
+        "PKRatioPlots": []
+    },
+    "Inputs": [
+        {
+            "Project": "Sufentanil",
+            "Name": "Sufentanil",
+            "Type": "Compound",
+            "SectionId": 40
+        }
+    ],
+    "Sections": [
+        {
+            "Id": 1,
+            "Title": "1 Introduction",
+            "Content": "Content/Section1_Introduction.md"
+        },
+        {
+            "Id": 2,
+            "Title": "2 Methods",
+            "Content": "Content/Section2_Methods.md",
+            "Sections": [
+                {
+                    "Id": 21,
+                    "Content": "Content/Section2.1_Modeling_Strategy.md",
+                    "Title": "2.1 Modeling strategy"
+                },
+                {
+                    "Id": 22,
+                    "Content": "Content/Section2.2_Data_used.md",
+                    "Title": "2.2 Data used"
+                },
+                {
+                    "Id": 23,
+                    "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md",
+                    "Title": "2.3 Model parameters and assumptions"
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "Content": "Content/Section3_Results_and_Discussion.md",
+            "Title": "3 Results and Discussion",
+            "Sections": [
+                {
+                    "Id": 40,
+                    "Content": "Content/Input_table.md",
+                    "Title": "3.1 Sufentanil final input parameters"
+                },
+                {
+                    "Id": 41,
+                    "Content": "Content/GOF_diagnostics.md",
+                    "Title": "3.2 Sufentanil Diagnostics Plots"
+                },
+                {
+                    "Id": 42,
+                    "Content": "Content/Concentration_time_profiles.md",
+                    "Title": "3.3 Sufentanil Concentration-Time profiles"
+                }
+            ]
+        },
+        {
+            "Id": 4,
+            "Content": "Content/Section4_Conclusion.md",
+            "Title": "4 Conclusion"
+        },
+        {
+            "Id": 5,
+            "Content": "Content/References.md",
+            "Title": "5 References"
+        }
+    ],
+    "Intro": [
+        {
+            "Path": "Content/titlepage.md"
+        }
+    ]
+}
