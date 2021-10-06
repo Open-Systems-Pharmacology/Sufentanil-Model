@@ -126,12 +126,12 @@
             },
             {
                 "Project": "Sufentanil",
-                "Simulation": "Willsie 2014 adults IV (for reporting)",
+                "Simulation": "Willsie 2014 adults IV",
                 "SectionId": 42
             },
             {
                 "Project": "Sufentanil",
-                "Simulation": "Taverne 1992 (for reporting)",
+                "Simulation": "Taverne 1992",
                 "SectionId": 42
             }
         ],
@@ -154,21 +154,21 @@
                                 "Project": "Sufentanil",
                                 "Simulation": "Bovill 1984",
                                 "Output": "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Bovill_1984_the pk of sufentanil in surgical patients.Bovill 1984 Figure 1",
+                                "ObservedData": "Bovill 1984 - mean - Sufentanil - IV - 5 mg/kg - Plasma - agg. (n=10)",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Sufentanil",
-                                "Simulation": "Willsie 2014 adults IV (for reporting)",
+                                "Simulation": "Willsie 2014 adults IV",
                                 "Output": "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Willsie 2014 Figure 1 IV mean (for reporting)",
+                                "ObservedData": "Willsie 2015 - mean - Sufentanil - IV - 15 µg - Plasma - agg. (n=25)",
                                 "Color": "#000000"
                             },
                             {
                                 "Project": "Sufentanil",
-                                "Simulation": "Taverne 1992 (for reporting)",
+                                "Simulation": "Taverne 1992",
                                 "Output": "Organism|PeripheralVenousBlood|Sufentanil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Taverne 1992 Figure 1 mean (for reporting)",
+                                "ObservedData": "Taverne 1992 - mean - Sufentanil - iv - 150 µg - Plasma - agg. (n=10)",
                                 "Color": "#000000"
                             }
                         ]
