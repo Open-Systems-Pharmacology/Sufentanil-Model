@@ -4,13 +4,13 @@ A literature search was performed to collect available information on physicoche
 
 | **Parameter**   | **Unit**    | **Sufentanil literature**             | **Description**                                  |
 | :-------------- | ----------- | ----------------------------------- | ------------------------------------------------ |
-| MW              | g/mol       | 386.6 ([Zhou 2017](#5-References))  | Molecular weight                                 |
-| pKa             |             | Base 8 ([Zhou 2017](#5-References)) | Base dissociation constant                       |
-| Solubility (pH) | mg/L        | 0.076 ([Roy 1988](#5-References))   | Solubility                                       |
-| logP            |             | 3.95 ([Zhou 2017](#5-References))   | Partition coefficient between octanol and water  |
-| fu              |             | 0.075 ([Zhou 2017](#5-References))  | Fraction unbound                                 |
-| CLr*            | L/h         | 1 ([Zhou 2017](#5-References))      | Renal clearance                                  |
-| CYP3A4 CLint* | µl/min/pmol | 20.74 ([Zhou 2017](#5-References))  | Cytochrome-P450 3A4 mediated intrinsic clearance |
+| MW              | g/mol       | 386.6 ([Zhou 2017](#5-references))  | Molecular weight                                 |
+| pKa             |             | Base 8 ([Zhou 2017](#5-references)) | Base dissociation constant                       |
+| Solubility (pH) | mg/L        | 0.076 ([Roy 1988](#5-references))   | Solubility                                       |
+| logP            |             | 3.95 ([Zhou 2017](#5-references))   | Partition coefficient between octanol and water  |
+| fu              |             | 0.075 ([Zhou 2017](#5-references))  | Fraction unbound                                 |
+| CLr*            | L/h         | 1 ([Zhou 2017](#5-references))      | Renal clearance                                  |
+| CYP3A4 CLint* | µl/min/pmol | 20.74 ([Zhou 2017](#5-references))  | Cytochrome-P450 3A4 mediated intrinsic clearance |
 
 *CLr and CYP3A4int parameters are built in PK-Sim as Glomerular filtration (GFR) and CYP3A4 - first order intrinsic clearance, respectively.
 
@@ -22,8 +22,8 @@ The following publications were found in adults for model building and evaluatio
 
 | Publication                       | Study description                                            |
 | :-------------------------------- | :----------------------------------------------------------- |
-| [Bovill 1984](#5-References) | The pharmacokinetics of sufentanil in elective surgical patients, without hepatic or renal dysfunction. |
-| [Willsie 2015](#5-References) | Pharmacokinetic properties of single- and repeated-dose sufentanil sublingual tablets in healthy volunteers. |
-| [Taverne 1992](#5-References) | Comparative absorption and distribution pharmacokinetics of intravenous and epidural sufentanil in elective surgical patients, without hepatic or renal dysfunction. |
+| [Bovill 1984](#5-references) | The pharmacokinetics of sufentanil in elective surgical patients, without hepatic or renal dysfunction. |
+| [Willsie 2015](#5-references) | Pharmacokinetic properties of single- and repeated-dose sufentanil sublingual tablets in healthy volunteers. |
+| [Taverne 1992](#5-references) | Comparative absorption and distribution pharmacokinetics of intravenous and epidural sufentanil in elective surgical patients, without hepatic or renal dysfunction. |
 
 
