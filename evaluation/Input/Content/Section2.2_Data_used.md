@@ -1,18 +1,18 @@
-### 2.2.1 In vitro / physico-chemical data
+### 2.2.1 In vitro / physicochemical data
 
 A literature search was performed to collect available information on physicochemical properties of sufentanil. The obtained information from literature is summarized in the table below, and is used for model building.
 
-| **Parameter**   | **Unit**    | **Sufentanil literature**             | **Description**                                  |
+| **Parameter**   | **Unit**    | **Literature value (reference)** | **Description**                                  |
 | :-------------- | ----------- | ----------------------------------- | ------------------------------------------------ |
 | MW              | g/mol       | 386.6 ([Zhou 2017](#5-references))  | Molecular weight                                 |
-| pKa             |             | Base 8 ([Zhou 2017](#5-references)) | Base dissociation constant                       |
-| Solubility (pH) | mg/L        | 0.076 ([Roy 1988](#5-references))   | Solubility                                       |
+| pKa             |             | 8 ([Zhou 2017](#5-references)) | Base dissociation constant                       |
+| Solubility (pH) | mg/L        | 0.076 (7) ([Roy 1988](#5-references)) | Solubility                                       |
 | logP            |             | 3.95 ([Zhou 2017](#5-references))   | Partition coefficient between octanol and water  |
 | fu              |             | 0.075 ([Zhou 2017](#5-references))  | Fraction unbound                                 |
 | CLr*            | L/h         | 1 ([Zhou 2017](#5-references))      | Renal clearance                                  |
 | CYP3A4 CLint* | µl/min/pmol | 20.74 ([Zhou 2017](#5-references))  | Cytochrome-P450 3A4 mediated intrinsic clearance |
 
-*CLr and CYP3A4int parameters are built in PK-Sim as Glomerular filtration (GFR) and CYP3A4 - first order intrinsic clearance, respectively.
+*CLr and CYP3A4int parameters are built in PK-Sim as glomerular filtration (GF) and CYP3A4 - first order intrinsic clearance, respectively.
 
 ### 2.2.2 Clinical data
 
