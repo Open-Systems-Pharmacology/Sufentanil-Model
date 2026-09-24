@@ -1,5 +1,7 @@
 {
-  "Version": 80,
+  "Name": "Sufentanil",
+  "Version": 81,
+  "ApplicationName": "PK-Sim",
   "ExpressionProfiles": [
     {
       "Type": "Enzyme",
@@ -10,12 +12,14 @@
         {
           "Path": "CYP3A4|Reference concentration",
           "Value": 4.32,
-          "Unit": "µmol/l"
+          "Unit": "µmol/l",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP3A4|t1/2 (intestine)",
           "Value": 23.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "CYP3A4|t1/2 (liver)",
@@ -27,51 +31,63 @@
         },
         {
           "Path": "Organism|Brain|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0041682898325
+          "Value": 0.0041682898325,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Gonads|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.00078691079081
+          "Value": 0.00078691079081,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Kidney|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0053603428126
+          "Value": 0.0053603428126,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|CYP3A4|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Periportal|Intracellular|CYP3A4|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Lung|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.00042695753798
+          "Value": 0.00042695753798,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|CYP3A4|Relative expression",
-          "Value": 0.0727697702
+          "Value": 0.0727697702,
+          "ValueOrigin": {}
         }
       ],
       "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
@@ -310,12 +326,14 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.015,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -327,12 +345,14 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.15,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -344,12 +364,14 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 0.005,
-          "Unit": "mg/kg"
+          "Unit": "mg/kg",
+          "ValueOrigin": {}
         }
       ]
     }
@@ -368,17 +390,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -387,7 +412,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -400,7 +426,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -593,17 +620,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -612,7 +642,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -625,7 +656,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -818,17 +850,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -837,7 +872,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -850,7 +886,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -1141,20 +1178,20 @@
                 "MolWeight": 386.6
               },
               "Values": [
-                1.20631318E-08,
-                0.00253525563,
-                0.00114752946,
-                0.000844322145,
-                0.000628679467,
+                1.2063132e-08,
+                0.0025352556,
+                0.0011475295,
+                0.00084432214,
+                0.00062867947,
                 0.0006461709,
-                0.000367727975,
-                0.000227974728,
+                0.00036772797,
+                0.00022797473,
                 0.0001525337,
-                0.000157262926,
+                0.00015726293,
                 0.000101106016,
-                0.000104819221,
-                9.217967E-05,
-                9.996023E-05
+                0.00010481922,
+                9.217967e-05,
+                9.996023e-05
               ],
               "Dimension": "Concentration (mass)",
               "Unit": "mg/l"
@@ -1169,17 +1206,17 @@
             "MolWeight": 386.6
           },
           "Values": [
-            0.0360874273,
+            0.036087427,
             0.008007425,
             0.004910575,
-            0.00361306313,
+            0.0036130631,
             0.002173929,
             0.001525026,
             0.001271378,
             0.0006630678,
-            0.000443759578,
+            0.00044375958,
             0.0003495893,
-            0.000272761477,
+            0.00027276148,
             0.0001989966,
             0.00015979851,
             0.0001385524
@@ -1325,23 +1362,23 @@
           },
           "Values": [
             0.0003239958,
-            0.000274800375,
+            0.00027480038,
             0.0002256015,
             0.0001827272,
             0.0001138495,
-            8.995116E-05,
-            8.151227E-05,
-            5.831169E-05,
-            4.776265E-05,
-            3.228542E-05,
-            2.594564E-05,
-            1.678016E-05,
-            1.323637E-05,
-            6.150492E-06,
-            3.28065812E-06,
-            2.518425E-06,
-            2.459857E-06,
-            1.699322E-06
+            8.995116e-05,
+            8.151227e-05,
+            5.831169e-05,
+            4.776265e-05,
+            3.228542e-05,
+            2.594564e-05,
+            1.678016e-05,
+            1.323637e-05,
+            6.150492e-06,
+            3.2806581e-06,
+            2.518425e-06,
+            2.459857e-06,
+            1.699322e-06
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "mg/l"
@@ -1358,12 +1395,12 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          0.0166666675,
+          0.016666668,
           0.06666667,
-          0.116666667,
-          0.166666672,
+          0.11666667,
+          0.16666667,
           0.25,
-          0.333333343,
+          0.33333334,
           0.5,
           0.75,
           1.0,
@@ -1491,7 +1528,7 @@
             0.0007741397,
             0.0003842289,
             0.0002746671,
-            0.000210601109,
+            0.00021060111,
             0.0001508382,
             0.000113823204,
             0.0001018748,
